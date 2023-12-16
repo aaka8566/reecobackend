@@ -7,7 +7,8 @@
         "brand": "Hormel Black Labelmany",
         "price": 80,
         "quantity": 15,
-        "requiredstatus": "approved"
+        "requiredstatus": "approved",
+        "updationstatus":null
       },
       {
         "id": 2,
@@ -16,7 +17,8 @@
         "brand": "Hormel Black Labelmany",
         "price": 40,
         "quantity": 10,
-        "requiredstatus": "needed"
+        "requiredstatus": "needed",
+        "updationstatus":null
       },
       {
         "id": 3,
@@ -25,7 +27,8 @@
         "brand": "Hormel Black Labelmany",
         "price": 20,
         "quantity": 6,
-        "requiredstatus": "urgent"
+        "requiredstatus": "urgent",
+        "updationstatus":null
       },
       {
         "id": 4,
@@ -34,7 +37,8 @@
         "brand": "Hormel Black Labelmany",
         "price": 70,
         "quantity": 20,
-        "requiredstatus": null
+        "requiredstatus": null,
+        "updationstatus":null
       },
       {
         "id": 5,
@@ -43,7 +47,8 @@
         "brand": "Hormel Black Labelmany",
         "price": 40,
         "quantity": 13,
-        "requiredstatus": null
+        "requiredstatus": null,
+        "updationstatus":null
       }
     ]
   }
